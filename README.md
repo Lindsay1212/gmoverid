@@ -4,9 +4,10 @@ Design example related to LDO phase margin
 
 This guide provides detailed instructions on how to set up the environment and open the necessary documents for your project.
 
+
 ## Step 1: Download and Extract the ZIP File
 
-1. Download the ZIP file containing the project files.
+1. Download the ZIP file containing the project files from [this link](https://zjuintl-my.sharepoint.com/:f:/g/personal/ziyil_21_intl_zju_edu_cn/EilNTdCgyXtPo6dfugptmbkBgg6t93plvISKR-yqTwoXaw?e=RusDek).
 2. Extract the contents of the ZIP file.
 3. Move the extracted files to your root directory (`~`).
 
