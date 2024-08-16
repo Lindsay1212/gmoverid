@@ -29,5 +29,6 @@ This guide provides detailed instructions on how to set up the environment and o
 The Maestro setup references a schematic located in the ece483.work/ece483_sp23/ldo_model cell. Therefore, if you need to modify the circuit, please navigate to:
    ```bash
 ece483.work/ece483_sp23/ldo_model/schematic
+   ```
 Make any necessary changes to the schematic here.
 
