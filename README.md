@@ -7,7 +7,7 @@ This guide provides detailed instructions on how to set up the environment and o
 
 ## Step 1: Download and Extract the ZIP File
 
-1. Download the ZIP file containing the project files from [this link](https://zjuintl-my.sharepoint.com/:f:/g/personal/ziyil_21_intl_zju_edu_cn/EilNTdCgyXtPo6dfugptmbkBgg6t93plvISKR-yqTwoXaw?e=RusDek).
+1. Download the ZIP file containing the project files from [this link]([https://zjuintl-my.sharepoint.com/:f:/g/personal/ziyil_21_intl_zju_edu_cn/EilNTdCgyXtPo6dfugptmbkBgg6t93plvISKR-yqTwoXaw?e=RusDek](https://zjuintl-my.sharepoint.com/:f:/g/personal/ziyil_21_intl_zju_edu_cn/EilNTdCgyXtPo6dfugptmbkB1LCLkh3pdvLiCla0ZZjCCg)) may need additional access request.
 2. Extract the contents of the ZIP file.
 3. Move the extracted files to your root directory (`~`).
 
